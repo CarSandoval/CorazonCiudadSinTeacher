@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/unity/hackaton/test028.apk
+D:/unity/hackaton/test031.apk
 SceneListBegin?
 Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity
 Assets/GoogleVR/Demos/Scenes/HelloVR.unity

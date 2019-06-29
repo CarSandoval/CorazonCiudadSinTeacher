@@ -9,6 +9,10 @@ public class cameraToRV : MonoBehaviour
 {
 
     //private IEnumerator coroutine;
+    void Awake()
+    {
+        //StartCoroutine(SwitchToVR());
+    }
 
     // Start is called before the first frame update
     void Start()
