@@ -443,7 +443,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   personaje: {fileID: 66023563}
   distancia: 15
-  url: https://www.youtube.com/watch?v=pDVORKo8rYs&t=39s
+  url: https://www.youtube.com/watch?v=E5OxQbe6CLg&feature=youtu.be&fbclid=IwAR0CuMYvuiV6b4bRSUMoxq-RYd0cbzqe-c36CoWX22HMmpiUNU5TT2TveyY
 --- !u!64 &221267951
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -484,7 +484,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   personaje: {fileID: 66023563}
   distancia: 15
-  url: https://www.youtube.com/watch?v=pDVORKo8rYs&t=39s
+  url: https://www.youtube.com/watch?v=Ez6EZU79l60
 --- !u!64 &519837371
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6506,7 +6506,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   personaje: {fileID: 66023563}
   distancia: 15
-  url: https://www.youtube.com/watch?v=pDVORKo8rYs&t=39s
+  url: https://www.youtube.com/watch?v=kLvsPcN1JiA
 --- !u!64 &1691045882
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6856,7 +6856,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   personaje: {fileID: 66023563}
   distancia: 15
-  url: https://www.youtube.com/watch?v=pDVORKo8rYs&t=39s
+  url: https://www.youtube.com/watch?v=4ufPyfeNUKw
 --- !u!64 &2065734546
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6897,7 +6897,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   personaje: {fileID: 66023563}
   distancia: 15
-  url: https://www.youtube.com/watch?v=pDVORKo8rYs&t=39s
+  url: https://www.youtube.com/watch?v=n0tukCCovWk
 --- !u!64 &2116897034
 MeshCollider:
   m_ObjectHideFlags: 0

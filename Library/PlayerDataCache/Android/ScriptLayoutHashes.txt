@@ -1,8 +1,8 @@
 Android
 PlayerPath?
-D:/unity/hackaton/test013.apk
+D:/unity/hackaton/test017.apk
 SceneListBegin?
-Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity
+Assets/GoogleVR/Demos/Scenes/HelloVR.unity
 SceneListEnd?
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.TerrainDataFetcher
 b9751259642f2166c56b27bb39f65c26 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Components.VertexDebugger
@@ -479,3 +479,49 @@ fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBe
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.UnityARCameraNearFar
 0855a9d1fe3a81abf4812b7ac80389b6 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Reproducir
+23efcd1831b04ace52b7b3485f150f24 Assembly-CSharp.dll:.GvrDropdown
+8f9981ae062e1a02c7f0bcdf63e95233 Assembly-CSharp.dll:GoogleVR.HelloVR.HeadsetDemoManager
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Gvr.Internal.EditorCameraOriginDict
+84b31b71fcfc0d02bf4204522ea292b1 Assembly-CSharp.dll:.GvrVideoPlayerTexture
+3bb1b4bae6823a4524e793cdb8702970 Assembly-CSharp.dll:GoogleVR.PermissionsDemo.PermissionsFlowManager
+5d46189bfca968b9b26fd60c37765c3f Assembly-CSharp.dll:.GvrArmModel
+ff7d3100dcac4699fa2b5abb996d38b1 Assembly-CSharp.dll:GoogleVR.Demos.DemoInputManager
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GvrEditorEmulator
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:GoogleVR.Demos.DemoInfoPanel
+6fa741eccd86c0bea38117a65515b359 Assembly-CSharp.dll:.GvrScrollSettings
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:GoogleVR.Demos.DemoSceneManager
+ed916f285d5522ec5ceb6eccef8d0072 Assembly-CSharp.dll:GoogleVR.VideoDemo.SwitchVideos
+11182ae33aeebaa701c6f03cb7f19976 Assembly-CSharp.dll:.GvrKeyboard
+bf3913f0d6c694bf20e1d681c79a4993 Assembly-CSharp.dll:GoogleVR.Beta.Demos.DemoObjectController6DoF
+bfb27555fe9d8f8f2507fc6a7abd6ce0 Assembly-CSharp.dll:.GvrAllEventsTrigger
+10e5e5a6a80d1d5521d8e42ecdcff303 Assembly-CSharp.dll:GoogleVR.Beta.Demos.DemoSeeThroughController
+f694021fab526c14fbd3efebc16d5eba Assembly-CSharp.dll:.GvrTrackedController
+1f8286dbbba9b39b9120dec32b8944e4 Assembly-CSharp.dll:.GvrLaserPointer
+53ce9a4d3b026469b394261470c07be7 Assembly-CSharp.dll:Gvr.Internal.InstantPreview
+245e167b749c6a7e7db841e6b0d3d749 Assembly-CSharp.dll:GoogleVR.Beta.GvrBetaHeadset
+bf3913f0d6c694bf20e1d681c79a4993 Assembly-CSharp.dll:GoogleVR.HelloVR.ObjectController
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GvrControllerTooltipsSimple
+1cbb684877139a8fcd5903f27462e898 Assembly-CSharp.dll:.GvrPointerPhysicsRaycaster
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GvrHeadset
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GvrRecenterOnlyController
+0aefaa69b3866ee3ae66f07ddb7f44ad Assembly-CSharp.dll:GoogleVR.VideoDemo.VideoPlayerReference
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.InstantPreviewHelper
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Gvr.Internal.EmulatorManager
+77035de2f75c9d7a19377ef6002c9bd8 Assembly-CSharp.dll:.GvrReticlePointer
+89c433fef753b02de32958d7fe54cc06 Assembly-CSharp.dll:.GvrLaserVisual
+3521ce3e471952c1bdd4cc618dceb5ae Assembly-CSharp.dll:.GvrControllerVisual
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:GoogleVR.VideoDemo.ScrubberEvents
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:GoogleVR.VideoDemo.VideoControlsManager
+1a15a086b1c0337a64ec2bee2ef92299 Assembly-CSharp.dll:.GvrPointerGraphicRaycaster
+df64ad7cdad89053ed97218d03e92c1f Assembly-CSharp.dll:Gvr.Internal.EmulatorConfig
+0356cdaae5b7070b3af7fac5f6f8d8cb Assembly-CSharp.dll:.GvrTooltip
+12d597f55904a0e1480e1e25a07f583c Assembly-CSharp.dll:GoogleVR.KeyboardDemo.KeyboardDelegateExample
+f0077b931a26a7eeaf5e245c7ef51ec4 Assembly-CSharp.dll:.GvrPointerInputModule
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Gvr.Internal.EmulatorClientSocket
+7a6837fe2e1bc65ba24bcd2a74cc367f Assembly-CSharp.dll:.GvrControllerInput
+9272257521fa59e2ad14f35e96c918e2 Assembly-CSharp.dll:GoogleVR.HelloVR.HelloVRManager
+01bdf339a887de280d38eeb519dfda0d Assembly-CSharp.dll:.GvrControllerReticleVisual
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GvrXREventsSubscriber
+719e5a8f63dda20dad1ba86875c22268 Assembly-CSharp.dll:GoogleVR.VideoDemo.AutoPlayVideo
+9ef0ed9504edb9d0914e240dee1b7846 Assembly-CSharp.dll:GoogleVR.Beta.GvrBetaControllerVisualMulti
