@@ -124,6 +124,7 @@ GameObject:
   - component: {fileID: 8030623}
   - component: {fileID: 8030622}
   - component: {fileID: 8030621}
+  - component: {fileID: 8030625}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -203,6 +204,18 @@ Transform:
   m_Father: {fileID: 1265827992}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 60, y: 0, z: 0}
+--- !u!114 &8030625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8030620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3394d18885b05244e92bb32711b42596, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &53857814
 GameObject:
   m_ObjectHideFlags: 0
@@ -444,6 +457,8 @@ MonoBehaviour:
   personaje: {fileID: 66023563}
   distancia: 15
   url: https://www.youtube.com/watch?v=E5OxQbe6CLg&feature=youtu.be&fbclid=IwAR0CuMYvuiV6b4bRSUMoxq-RYd0cbzqe-c36CoWX22HMmpiUNU5TT2TveyY
+  URL: 1
+  escena: 
 --- !u!64 &221267951
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -485,6 +500,8 @@ MonoBehaviour:
   personaje: {fileID: 66023563}
   distancia: 15
   url: https://www.youtube.com/watch?v=Ez6EZU79l60
+  URL: 1
+  escena: 
 --- !u!64 &519837371
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5947,7 +5964,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1010406449}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 27a3efe297cc226429edf636e591407b, type: 3}
   m_Name: 
@@ -6507,6 +6524,8 @@ MonoBehaviour:
   personaje: {fileID: 66023563}
   distancia: 15
   url: https://www.youtube.com/watch?v=kLvsPcN1JiA
+  URL: 1
+  escena: 
 --- !u!64 &1691045882
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6857,6 +6876,8 @@ MonoBehaviour:
   personaje: {fileID: 66023563}
   distancia: 15
   url: https://www.youtube.com/watch?v=4ufPyfeNUKw
+  URL: 1
+  escena: 
 --- !u!64 &2065734546
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6898,6 +6919,8 @@ MonoBehaviour:
   personaje: {fileID: 66023563}
   distancia: 15
   url: https://www.youtube.com/watch?v=n0tukCCovWk
+  URL: 0
+  escena: HelloVR
 --- !u!64 &2116897034
 MeshCollider:
   m_ObjectHideFlags: 0
