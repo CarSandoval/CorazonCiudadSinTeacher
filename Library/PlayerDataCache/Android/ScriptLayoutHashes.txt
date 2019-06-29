@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/unity/hackaton/test026.apk
+D:/unity/hackaton/test028.apk
 SceneListBegin?
 Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity
 Assets/GoogleVR/Demos/Scenes/HelloVR.unity
@@ -273,6 +273,7 @@ ae88cf5ed6578d128f4f31acea4d63ed Assembly-CSharp.dll:Mapbox.Unity.Utilities.Dont
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.BlinkLight
 b818207c0b8a805931f7a7989870283e Assembly-CSharp.dll:GoogleARCore.ARCoreBackgroundRenderer
 19da73fcf567c3ca2b4c13de46a1058f Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Data.AtlasInfo
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.cameraToRV
 f2f2883bb6002e274434d8fe1421a30a Assembly-CSharp.dll:Mapbox.Unity.Utilities.MapVisualizerPerformance
 c3ca68359ba3cdfb2598642816e97c83 Assembly-CSharp.dll:Mapbox.Examples.CameraMovement
 45fed25dcd639380740b6ea2df90c75f Assembly-CSharp.dll:.OptionsGUI
@@ -313,6 +314,7 @@ a7c91ead796087612ab9b5731410c7c5 Assembly-CSharp.dll:Mapbox.Examples.LocationSta
 1f8286dbbba9b39b9120dec32b8944e4 Assembly-CSharp.dll:.GvrLaserPointer
 2651b1956cb518e1f451b1aa7c38e941 Assembly-CSharp.dll:Mapbox.Examples.ReloadMap
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Camera2D
 3bdedf08b14e08d680b95320e83444f1 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.KdTreeCollection
 344c74b3abf2e69061c6763dbfbabcea Assembly-CSharp.dll:UnityARInterface.ARFocusSquare
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Interfaces.LocationPrefabsLayerVisualizer
@@ -526,5 +528,3 @@ fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBe
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.UnityARCameraNearFar
 0855a9d1fe3a81abf4812b7ac80389b6 Assembly-CSharp.dll:Mapbox.Unity.MeshGeneration.Modifiers.ModifierStack
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Camera2D
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.cameraToRV
